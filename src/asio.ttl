@@ -15,6 +15,10 @@ ex:Pablo a owl:NamedIndividual, ex:Investigador, ex:Alumno ;
             ex:estudiaEn ex:Uniovi .
 
 
+ex:Pepe a owl:NamedIndividual, ex:Investigador, ex:Alumno ;
+            ex:trabajaEn ex:Uniovi ;
+            ex:estudiaEn ex:Uniovi .
+
 ex:Uniovi a  owl:NamedIndividual,
             ex:Universidad .
 
