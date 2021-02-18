@@ -1,4 +1,4 @@
-@prefix ex: <http://www.example.com> .
+@prefix ex: <http://www.example.com/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 
 ex:Investigador a owl:Ontology .
@@ -21,4 +21,6 @@ ex:Pepe a owl:NamedIndividual, ex:Investigador, ex:Alumno ;
 
 ex:Uniovi a  owl:NamedIndividual,
             ex:Universidad .
+
+es:Socorro a  owl:ObjectProperty .
 
