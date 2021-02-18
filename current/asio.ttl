@@ -25,3 +25,4 @@ ex:Uniovi a  owl:NamedIndividual,
 es:Socorro a  owl:ObjectProperty .
 
 es:Exit a  owl:ObjectProperty .
+es:QeeeO a  owl:ObjectProperty .
