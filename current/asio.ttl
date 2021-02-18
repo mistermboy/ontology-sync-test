@@ -2,6 +2,6 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 
 
-weso:Pablo a owl:Class ;
-weso:Alex a owl:Class ;
-weso:AhoraSiQueSi a owl:Class ;
+weso:Pablo a owl:Class .
+weso:Alex a owl:Class .
+weso:AhoraSiQueSi a owl:Class .
