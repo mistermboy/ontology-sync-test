@@ -3,4 +3,5 @@
 
 
 weso:Pablo a owl:Class ;
+weso:Alex a owl:Class ;
 
